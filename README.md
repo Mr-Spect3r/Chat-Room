@@ -11,6 +11,9 @@ A simple but secure app for chatting with friends or groups
 
 - If you want to create a chat room network without the server, you must use ngrok or the server and client must be connected to the same wifi network
 
+<img src="https://github.com/user-attachments/assets/3bc216ca-8ecc-47a6-a845-602c104c0ceb"> 
+
+<img src="https://github.com/user-attachments/assets/4e18c560-e19a-4541-828f-230778d74a79"> 
 
 # Commands Client
 
