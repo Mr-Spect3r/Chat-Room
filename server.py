@@ -211,7 +211,6 @@ async def handle_message(ws, username, message):
                 await send_online_users(to_ws=ws)
             return
 
-    # پیام عمومی
     time = datetime.datetime.now().strftime("%H:%M:%S")
     full_msg = Fore.WHITE + f"[{time}] {username}: {message}" + Style.RESET_ALL
     log(f"{username}: {message}")
