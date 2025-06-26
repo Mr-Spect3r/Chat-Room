@@ -82,3 +82,4 @@ A simple but secure app for chatting with friends or groups
   </tbody>
 </table>
 
+Telegram : <a href="https://t.me/MrEsfelurm">Esfelurm
